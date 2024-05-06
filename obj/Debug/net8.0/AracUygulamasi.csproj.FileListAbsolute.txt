@@ -1,0 +1,14 @@
+C:\Users\valia\OneDrive\Masaüstü\coding\aspnetcore\practices\AracUygulamasi\bin\Debug\net8.0\AracUygulamasi.exe
+C:\Users\valia\OneDrive\Masaüstü\coding\aspnetcore\practices\AracUygulamasi\bin\Debug\net8.0\AracUygulamasi.deps.json
+C:\Users\valia\OneDrive\Masaüstü\coding\aspnetcore\practices\AracUygulamasi\bin\Debug\net8.0\AracUygulamasi.runtimeconfig.json
+C:\Users\valia\OneDrive\Masaüstü\coding\aspnetcore\practices\AracUygulamasi\bin\Debug\net8.0\AracUygulamasi.dll
+C:\Users\valia\OneDrive\Masaüstü\coding\aspnetcore\practices\AracUygulamasi\bin\Debug\net8.0\AracUygulamasi.pdb
+C:\Users\valia\OneDrive\Masaüstü\coding\aspnetcore\practices\AracUygulamasi\obj\Debug\net8.0\AracUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valia\OneDrive\Masaüstü\coding\aspnetcore\practices\AracUygulamasi\obj\Debug\net8.0\AracUygulamasi.AssemblyInfoInputs.cache
+C:\Users\valia\OneDrive\Masaüstü\coding\aspnetcore\practices\AracUygulamasi\obj\Debug\net8.0\AracUygulamasi.AssemblyInfo.cs
+C:\Users\valia\OneDrive\Masaüstü\coding\aspnetcore\practices\AracUygulamasi\obj\Debug\net8.0\AracUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\valia\OneDrive\Masaüstü\coding\aspnetcore\practices\AracUygulamasi\obj\Debug\net8.0\AracUygulamasi.dll
+C:\Users\valia\OneDrive\Masaüstü\coding\aspnetcore\practices\AracUygulamasi\obj\Debug\net8.0\refint\AracUygulamasi.dll
+C:\Users\valia\OneDrive\Masaüstü\coding\aspnetcore\practices\AracUygulamasi\obj\Debug\net8.0\AracUygulamasi.pdb
+C:\Users\valia\OneDrive\Masaüstü\coding\aspnetcore\practices\AracUygulamasi\obj\Debug\net8.0\AracUygulamasi.genruntimeconfig.cache
+C:\Users\valia\OneDrive\Masaüstü\coding\aspnetcore\practices\AracUygulamasi\obj\Debug\net8.0\ref\AracUygulamasi.dll
